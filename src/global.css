@@ -14,7 +14,7 @@
   --qwik-dirty-black: #1d2033;
 
   --text-color: #ffffff;
-  --main-background: #767676;
+  --main-background: #D2D2D2;
   --header-background: var(--main-background);
   --footer-background: #767676;
 }
@@ -194,7 +194,7 @@ body {
   }
 }
 .div-4 {
-  disply: flex;
+  display: flex;
   flex-direction: column;
   overflow: hidden;
   border-radius: 50%;
@@ -5297,4 +5297,4 @@ body {
   .div-355 {
     white-space: initial;
   }
-};
+}

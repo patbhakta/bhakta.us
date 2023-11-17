@@ -8,7 +8,7 @@ export default component$(() => {
       <div class={styles.wrapper}>
         <div class={styles.logo}>
           <a href="/" title="BHAKTA.US">
-            <Logo height={50} width={143} />
+            <Logo/>
           </a>
         </div>
         <ul>

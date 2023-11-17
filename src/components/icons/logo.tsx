@@ -1,8 +1,4 @@
-export const Logo = ({
-}: {
-  width?: number;
-  height?: number;
-}) => (
+export const Logo = () => (
 <svg
    width="22.803137mm"
    height="23.801254mm"
