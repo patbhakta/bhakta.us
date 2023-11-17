@@ -5,8 +5,8 @@ export default component$(() => {
   return (
     <footer>
       <div class={styles.wrapper}>
-        <a href="https://www.builder.io/" target="_blank" class={styles.anchor}>
-          <span>Made with ♡ by Builder.io</span>
+        <a href="https://bhakta.us" target="_blank" class={styles.anchor}>
+          <span>Made with ♡ by Pat Bhakta</span>
         </a>
       </div>
     </footer>
