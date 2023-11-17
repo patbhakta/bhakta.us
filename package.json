@@ -42,7 +42,8 @@
     "bun-types": "latest"
   },
   "dependencies": {
-    "builder.io": "^0.0.13"
+    "builder.io": "^0.0.13",
+    "netlify": "^13.1.11"
   },
   "module": "index.ts",
   "type": "module"
